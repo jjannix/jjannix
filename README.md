@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjannix
-- 👀 I’m interested in JavaScript && Kotlin
-- 🌱 I’m currently learning Kotlin 
+- 👀 I’m interested in JavaScript && TypeScript
+- 🌱 I’m currently learning TypeScript 
 - 📫 How to reach me 
 
 <!---
