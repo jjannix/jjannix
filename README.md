@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jjannix
-- 👀 I’m interested in JavaScript && Vue.js
+- 👀 I’m interested in JavaScript && Vue.js && discord.js
 - 🌱 I’m currently learning TypeScript && Vue.js
 - 📫 How to reach me 
 
