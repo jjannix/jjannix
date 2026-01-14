@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jjannix
-- 👀 I’m interested in JavaScript && Vue.js && discord.js
-- 🌱 I’m currently learning TypeScript && Vue.js
-- 📫 How to reach me 
+- 👀 I’m interested in JavaScript && Typescript && go
+- 🌱 I’m currently learning TypeScript && scala && go
 
 <!---
 jjannix/jjannix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
